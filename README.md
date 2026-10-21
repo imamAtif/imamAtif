@@ -9,6 +9,19 @@
 
 ---
 
+### 🤝 Helping Startups & Growing Teams
+
+If you are an early-stage startup or growing company trying to figure out how to manage, model, or scale your data without over-engineering or blowing your budget, let's talk. I help teams with:
+
+* **0 to 1 Data Stack Setup:** Setting up a pragmatic, cost-efficient modern data stack (Snowflake or BigQuery + dbt Core + Airflow) that scales with your product.
+* **Warehouse Cost Optimization (FinOps):** Auditing and right-sizing runaway Snowflake or BigQuery compute bills before costs spiral.
+* **Pipeline Reliability & Data Quality:** Stabilizing fragile ETL/ELT pipelines, eliminating data discrepancies, and setting up automated quality gates.
+* **Clean Data Modeling:** Transforming messy application databases and third-party SaaS feeds into reliable, analytics-ready dimensional models.
+
+💬 **Need help with your data?** Shoot me a message on [**LinkedIn**](https://linkedin.com/in/atifimam) or drop me an email at [**mohd.atifimam@hotmail.com**](mailto:mohd.atifimam@hotmail.com). Always happy to brainstorm and help.
+
+---
+
 ### 💼 What I Do
 
 * **Data Platform Architecture:** Tech lead for end-to-end batch ELT pipelines using **Snowflake**, **dbt Core**, and **Apache Airflow** on Kubernetes / AWS EKS.
