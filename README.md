@@ -24,16 +24,16 @@ If you are an early-stage startup or growing company trying to figure out how to
 
 ### 💼 What I Do
 
-* **Data Platform Architecture:** Tech lead for end-to-end batch ELT pipelines using **Snowflake**, **dbt Core**, and **Apache Airflow** on Kubernetes / AWS EKS.
-* **Cost Governance & FinOps:** Directed Snowflake compute governance across multi-account topologies (including a production warehouse at \$8k/week), delivering **30% cost reductions (~$12k+/month savings)** through warehouse right-sizing, auto-suspend policies, and query clustering.
-* **Performance Tuning:** Cut query latencies by 40%, accelerated high-volume GCP BigQuery batch pipelines by 35%, and achieved 10x ingestion speedups on Apache Spark jobs.
-* **Governance & Reliability:** Enforcing granular healthcare data governance (RBAC, dynamic and tag-based masking, PII protection), data quality frameworks, and maintaining 99.9% uptime across 50+ business-critical DAGs.
+* **Data Platform Architecture:** Tech lead for batch ELT pipelines using **Snowflake**, **dbt Core**, and **Apache Airflow** on Kubernetes and AWS EKS.
+* **Cost Governance & FinOps:** Managed Snowflake compute governance across multi-account setups (including production at \$8,000/week), delivering **30% cost reductions (~$12k+/month savings)** through warehouse right-sizing, auto-suspend policies, and query clustering.
+* **Performance Tuning:** Cut query latencies by 40%, accelerated GCP BigQuery batch pipelines by 35%, and achieved 10x ingestion speedups on Apache Spark jobs.
+* **Governance & Reliability:** Enforced granular healthcare data governance (RBAC, dynamic and tag-based masking, PII protection), data quality frameworks, and maintained 99.9% uptime across 50+ business-critical DAGs.
 
 ---
 
 ### 🌐 Open Source Contributions (Merged PRs)
 
-A selection of upstream open source pull requests I have authored and had merged into data tooling and developer platforms:
+Upstream pull requests I raised in open source projects that were merged:
 
 | Repository | PR | Details |
 | :--- | :--- | :--- |
@@ -57,8 +57,8 @@ A selection of upstream open source pull requests I have authored and had merged
 
 ### 📍 Experience Highlights
 
-* **Diaceutics (Healthcare Analytics)** — *Sr. Data Engineer (Tech Lead)* | Dec 2024 – Present
-* **Wayfair (E-Commerce)** — *Senior Data Engineer* | Dec 2023 – Dec 2024
-* **RedDoorz (Hospitality)** — *Sr. Associate Lead / Sr. Data Engineer* | Aug 2021 – Aug 2023
-* **Axtria India Pvt Ltd** — *Data Engineer / Associate* | Feb 2020 – Aug 2021
-* **Cognizant Technology Solutions** — *Programmer Analyst* | Jan 2018 – Jan 2020
+* **Diaceutics (Healthcare Analytics)** - *Sr. Data Engineer (Tech Lead)* | Dec 2024 - Present
+* **Wayfair (E-Commerce)** - *Senior Data Engineer* | Dec 2023 - Dec 2024
+* **RedDoorz (Hospitality)** - *Sr. Associate Lead / Sr. Data Engineer* | Aug 2021 - Aug 2023
+* **Axtria India Pvt Ltd** - *Data Engineer / Associate* | Feb 2020 - Aug 2021
+* **Cognizant Technology Solutions** - *Programmer Analyst* | Jan 2018 - Jan 2020
